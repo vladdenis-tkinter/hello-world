@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to my study of microservices"
+  contactDetails:
+    name: "Vlad"
+    email: "vlad7cravalho@gmail.com"
+  nicknames:
+    796
+    tuzbuben
+    Black don
