@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to my study of microservices QA"
+  contactDetails:
+    name: "Nek - QA Lead dfvfdevdfved"
+    email: "gornik-93@yandex.ru"
+  nicknames:
+    796
+    tuzbuben
+    Black don
