@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "2.1231241231"
 
 accounts:
-  message: "Welcome to my study of microservices QA"
+  message: "Welcome to my fuckin study of microservices QA"
   contactDetails:
     name: "Nek - QA Lead 11111111111111111"
     email: "vladorel-93@yandex.ru"
@@ -10,3 +10,4 @@ accounts:
     796
     tuzbuben
     Black don
+    
