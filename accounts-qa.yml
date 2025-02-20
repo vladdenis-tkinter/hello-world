@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to my fuckin study of microservices QA"
   contactDetails:
-    name: "Nek - QA Lead 11111111111111111"
+    name: "Vlad Orlov - QA Lead 11111111111111111"
     email: "vladorel-93@yandex.ru"
   nicknames:
     796
