@@ -1,10 +1,10 @@
 build:
-  version: "1.999"
+  version: "99999.123455"
 
 accounts:
   message: "Welcome to my study of microservices prod APIs"
   contactDetails:
-    name: "Nek - Product owner dfefdfjbefebdj"
+    name: "Nek - Product owner May BEEEEEEE"
     email: "gornik-93@yandex.ru"
   nicknames:
     796
