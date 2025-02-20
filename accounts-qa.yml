@@ -1,10 +1,10 @@
 build:
-  version: "2.1231241231"
+  version: "2.sdcvsv"
 
 accounts:
   message: "DO NOT FUCK OFFFFF OF my fuckin study of microservices QA"
   contactDetails:
-    name: "Vlad Orlov - QA Lead 22222222"
+    name: "Vlad Orlov - QA Lead"
     email: "vladorel-93@yandex.ru"
   nicknames:
     796
