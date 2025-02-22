@@ -2,7 +2,7 @@ build:
   version: "2.sdcvsv"
 
 accounts:
-  message: "DO my fuckin study of microservices QA"
+  message: "Hi deer! DO my fuckin study of microservices QA"
   contactDetails:
     name: "Vlad Orlov - QA Lead"
     email: "vladorel-93@yandex.ru"
